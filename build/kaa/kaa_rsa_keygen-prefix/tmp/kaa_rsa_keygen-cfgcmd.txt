@@ -1,0 +1,1 @@
+cmd='/usr/bin/cmake;-DKAA_SDK_DIR=/home/davide/Desktop/SDK-ESP8266/kaa;-GUnix Makefiles;/home/davide/Desktop/SDK-ESP8266/kaa/tools/kaa_encryption'

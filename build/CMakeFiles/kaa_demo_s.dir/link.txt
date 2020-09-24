@@ -1,0 +1,2 @@
+/opt/Espressif/crosstool-NG/builds/xtensa-lx106-elf/bin/xtensa-lx106-elf-ar qc libkaa_demo_s.a  CMakeFiles/kaa_demo_s.dir/user/user_main.c.obj CMakeFiles/kaa_demo_s.dir/driver/uart.c.obj CMakeFiles/kaa_demo_s.dir/src/kaa_demo.c.obj
+/opt/Espressif/crosstool-NG/builds/xtensa-lx106-elf/bin/xtensa-lx106-elf-ranlib libkaa_demo_s.a
